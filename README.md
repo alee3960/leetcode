@@ -13,7 +13,7 @@ git clone https://github.com/alee3960/leetcode.git
 2. Navigate to the directory and problem
 ```bash
 cd leetcode
-cd '.\9. Palindrome Number\'
+cd 1_Two_Sum
 ```
 3. Run the file or tests for the solution
 ```bash
